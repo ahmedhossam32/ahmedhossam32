@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
-<h3 align="center">I'm a student with a strong passion for backend development, currently diving deep into the Spring framework after building a solid foundation in Java, Object-Oriented Programming (OOP), and Data Structures. I've developed multiple system-based projects using Java and NetBeans, which have helped me strengthen my backend skills. Additionally, I’ve explored full-stack development by building a MERN (MongoDB, Express, React, Node.js) project, giving me a well-rounded perspective on web application development.</h3>
+<h3 align="center">I'm a student with a strong passion for backend development, currently diving deep into the Spring framework after building a solid foundation in Java, Object-Oriented Programming (OOP), Design patterns , solid principles and Data Structures. I've developed multiple system-based projects using Java and NetBeans, which have helped me strengthen my backend skills. Additionally, I’ve explored full-stack development by building a MERN (MongoDB, Express, React, Node.js) project, giving me a well-rounded perspective on web application development.</h3>
 
 - 🌱 I’m currently learning **Spring Boot , System Design**
 
