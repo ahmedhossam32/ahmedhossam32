@@ -3,8 +3,8 @@
 
 I'm a backend-focused developer with a strong foundation in **Java**, **OOP**, **SOLID principles**, **Design Patterns**, and **Data Structures**. I specialize in building secure and scalable web applications using **Spring Boot**, with hands-on experience in developing RESTful APIs, integrating databases, and implementing real-world business logic.
 
-One of my recent and most complete projects is a full-stack **Blog Application** built with **Spring Boot** and **React** — featuring authentication (JWT), blog and community posts, likes, comments, and real-time notifications.  
-🔗 [Check it out here](https://github.com/your-username/spring-blog-app) <!-- Replace this link -->
+One of my most complete projects is a full-stack **Blog Application** built with **Spring Boot** and **React**, featuring authentication (JWT), blog and community posts, likes, comments, and real-time notifications.  
+🔗 [Check it out here](https://github.com/ahmedhossam32/FullStackBlogApp)
 
 - 🌱 Currently learning **System Design** and **Cloud Deployment**
 - 🚀 Always building, refining, and shipping real projects
